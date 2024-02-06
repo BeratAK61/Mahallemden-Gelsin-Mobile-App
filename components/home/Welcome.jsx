@@ -18,7 +18,7 @@ const Welcome = () => {
             Evertything You Are Looking For
          </Text> 
          <Text style={styles.welcomeText(COLORS.primary,0)}> 
-         Luxurious Furniture
+            Luxurious Furniture
          </Text> 
         </View>
 
